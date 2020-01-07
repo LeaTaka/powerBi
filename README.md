@@ -1,2 +1,2 @@
 # powerBi
- Scripts for stream data tp PBi
+ Scripts for streaming data to PBi
